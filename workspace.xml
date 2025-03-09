@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5400696a-ea2d-4a75-888f-71ddbfe9406e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPjZcrSzbw9sL9HgXGlngpqbBq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spring-boot-swing-reservations-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hashtag\IdeaProjects\swingtest\src\main\java\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hashtag\IdeaProjects\swingtest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="JAVASwingFormExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASwingFormExample" />
+      <module name="swingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="swingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="swingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.JAVASwingFormExample" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5400696a-ea2d-4a75-888f-71ddbfe9406e" name="Default Changelist" comment="" />
+      <created>1580954681789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580954681789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="28" key="#Inspections" timestamp="1580965045127">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1580965045127" />
+    <state x="275" y="28" key="#Project_Structure" timestamp="1580960459326">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1580960459326" />
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1580964011481">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1580964011481" />
+    <state x="416" y="58" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580957693231">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="416" y="58" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1580957693231" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1580977026293">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1580977026293" />
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1580976914768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1580976914768" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1580976914767">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1580976914767" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1580976914767">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1580976914767" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1580976914768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1580976914768" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1580961474971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1580961474971" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580957157183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580957157183" />
+    <state x="238" y="49" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1580957653797">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="238" y="49" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1580957653797" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580964630029">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.738@0.0.1366.738" timestamp="1580964630029" />
+    <state x="65" y="65" key="new project wizard" timestamp="1580971987245">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="65" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1580971987245" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580959458567">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1580959458567" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JAVASwingFormExample.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
